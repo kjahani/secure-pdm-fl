@@ -203,16 +203,16 @@ FedSecurePdM demonstrates strong resilience against malicious participants in fe
 
 ## 📖 Citation
 
-If you use this work in your research, please cite:
+If you use this repository, please cite:
 
 ```bibtex
-@article{jahani2026fedsecurepdm,
+@misc{jahani2026fedsecurepdm,
   title={FedSecurePdM: A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Predictive Maintenance},
-  author={Jahani, Khalil and Moshiri, Behzad and Hossein Khalaj, Babak},
-  journal={International Journal of Prognostics and Health Management},
-  year={2026}
+  author={Khalil Jahani and Behzad Moshiri and Babak Hossein Khalaj},
+  year={2026},
+  howpublished={GitHub Repository},
+  note={Associated manuscript under review at IJPHM}
 }
-
 ```
 
 # 🗺️ Research Roadmap
