@@ -128,6 +128,7 @@ FedSecurePdM/
 ├── LICENSE
 ├── requirements.txt
 └── CITATION.cff
+```
 
 ⚙️ Installation
 
@@ -175,6 +176,7 @@ FedSecurePdM demonstrates strong resilience against malicious participants in fe
 
 ✅ Suitable for Industry 4.0 deployment
 
+
 ## 📄 Related Publication
 
 **FedSecurePdM: A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Predictive Maintenance**
@@ -194,45 +196,47 @@ Khalil Jahani, Behzad Moshiri, Babak Hossein Khalaj
 - Reinforcement Learning for maintenance scheduling
 - Human-in-the-loop decision support
 
+
 ## 📖 Citation
 
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{jahani2025fedsecurepdm,
+@article{jahani2026fedsecurepdm,
   title={FedSecurePdM: A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Predictive Maintenance},
   author={Jahani, Khalil and Moshiri, Behzad and Hossein Khalaj, Babak},
   journal={International Journal of Prognostics and Health Management},
   year={2026}
 }
 
-
----
+```
 
 # 🗺️ Research Roadmap
 
 ```markdown
-## 🗺️ Research Roadmap
+ 🗺️ Research Roadmap
 
-### Completed
+ Completed
 
 - [x] PCA-Based Edge Screening
 - [x] Reputation-Based Aggregation
 - [x] Byzantine Robustness Evaluation
 - [x] RUL Prediction Module
 
-### In Progress
+ In Progress
 
 - [ ] Differential Privacy Integration
 - [ ] Explainable Reputation Engine
 - [ ] Large-Scale FL Simulation
 
-### Future
+ Future
 
 - [ ] Reinforcement Learning for Maintenance Scheduling
 - [ ] Digital Twin Integration
 - [ ] Industrial Pilot Deployment
 - [ ] FPGA-Accelerated Secure Aggregation
+
+```
 
 📜 License
 
