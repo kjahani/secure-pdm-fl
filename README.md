@@ -1,30 +1,39 @@
-# secure-pdm-fl
+# SecurePdM-FL
 
-Title
+> **A Secure and Byzantine Fault-Tolerant Federated Learning Framework for Predictive Maintenance in Industry 4.0**
 
-Badges
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
+[![Research](https://img.shields.io/badge/Research-Federated%20Learning-blue?style=flat-square)]()
 
-Overview
+---
 
-Research Motivation
+## Overview
 
-System Architecture
+SecurePdM-FL is a research framework that integrates **Federated Learning**, **Byzantine fault tolerance**, and **privacy-preserving aggregation** to enable secure predictive maintenance in Industry 4.0 environments.
 
-Methodology
+The framework is designed to improve robustness against malicious clients while preserving data privacy and maintaining high predictive performance across distributed industrial systems.
 
-Experimental Setup
+## Research Motivation
 
-Results
+## System Architecture
 
-Repository Structure
+## Methodology
 
-Installation
+## Experimental Setup
 
-Quick Start
+## Results
 
-Citation
+## Repository Structure
 
-Publications
+## Installation
+
+## Quick Start
+
+## Citation
+
+## Publications
 
 Future Work
 
