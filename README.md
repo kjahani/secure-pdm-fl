@@ -15,28 +15,24 @@ SecurePdM-FL is a research framework that integrates **Federated Learning**, **B
 
 The framework is designed to improve robustness against malicious clients while preserving data privacy and maintaining high predictive performance across distributed industrial systems.
 
-## Research Motivation
+✨ Key Features
 
-## System Architecture
+🏗️ System Architecture
 
-## Methodology
+📂 Repository Structure
 
-## Experimental Setup
+⚙️ Installation
 
-## Results
+🚀 Quick Start
 
-## Repository Structure
+📊 Experimental Results
 
-## Installation
+📄 Related Publication
 
-## Quick Start
+📖 Citation
 
-## Citation
+🗺️ Roadmap
 
-## Publications
+📜 License
 
-## Future Work
-
-## License
-
-## Contact
+📬 Contact
