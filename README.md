@@ -9,11 +9,11 @@
 
 ---
 
-## Overview
+## Abstract
 
-SecurePdM-FL is a research framework that integrates **Federated Learning**, **Byzantine fault tolerance**, and **privacy-preserving aggregation** to enable secure predictive maintenance in Industry 4.0 environments.
+SecurePdM-FL is a research-oriented federated learning framework designed for predictive maintenance in Industry 4.0 environments. The framework integrates Byzantine fault tolerance, privacy-preserving aggregation, and anomaly detection mechanisms to ensure secure and reliable model training across distributed industrial systems.
 
-The framework is designed to improve robustness against malicious clients while preserving data privacy and maintaining high predictive performance across distributed industrial systems.
+By enabling collaborative learning without centralized data collection, SecurePdM-FL improves privacy, robustness, and scalability while maintaining high predictive performance under adversarial conditions.
 
 ✨ Key Features
 
