@@ -1,19 +1,33 @@
 # secure-pdm-fl
 
-## Abstract
+Title
 
-## Motivation
+Badges
 
-## Architecture
+Overview
 
-## Methodology
+Research Motivation
 
-## Results
+System Architecture
 
-## Installation
+Methodology
 
-## Usage
+Experimental Setup
 
-## Citation
+Results
 
-## License
+Repository Structure
+
+Installation
+
+Quick Start
+
+Citation
+
+Publications
+
+Future Work
+
+License
+
+Contact
