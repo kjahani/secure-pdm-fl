@@ -179,11 +179,15 @@ FedSecurePdM demonstrates strong resilience against malicious participants in fe
 
 ## 📄 Related Publication
 
-**FedSecurePdM: A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Predictive Maintenance**
+### FedSecurePdM: A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Predictive Maintenance
 
-Khalil Jahani, Behzad Moshiri, Babak Hossein Khalaj
+**Authors:** Khalil Jahani, Behzad Moshiri, Babak Hossein Khalaj
 
-*International Journal of Prognostics and Health Management (IJPHM), 2026*
+**Venue:** *International Journal of Prognostics and Health Management (IJPHM)*
+
+**Status:** Under Review (2026)
+
+**Repository Role:** Official research implementation and reproducibility package.
 
 ## 📄 Future Work
 
