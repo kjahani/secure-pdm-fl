@@ -1,6 +1,6 @@
-# SecurePdM-FL
+# FedSecurePdM
 
-> **A Secure and Byzantine Fault-Tolerant Federated Learning Framework for Predictive Maintenance in Industry 4.0**
+> **A Byzantine Fault-Tolerant and Privacy-Preserving Federated Learning Framework for Industrial Predictive Maintenance**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
@@ -11,9 +11,9 @@
 
 ## Abstract
 
-SecurePdM-FL is a research-oriented federated learning framework designed for predictive maintenance in Industry 4.0 environments. The framework integrates Byzantine fault tolerance, privacy-preserving aggregation, and anomaly detection mechanisms to ensure secure and reliable model training across distributed industrial systems.
+FedSecurePdM is a modular three-tier federated learning architecture designed for industrial predictive maintenance (PdM). The framework combines edge-level anomaly screening, a dynamic reputation engine, and secure aggregation mechanisms to improve robustness against Byzantine clients while preserving data privacy.
 
-By enabling collaborative learning without centralized data collection, SecurePdM-FL improves privacy, robustness, and scalability while maintaining high predictive performance under adversarial conditions.
+By integrating lightweight PCA-based detection, game-theoretic reputation weighting, and secure prognostic modeling, the framework enables reliable Remaining Useful Life (RUL) estimation under adversarial and non-IID industrial environments.
 
 ## Research Motivation
 
